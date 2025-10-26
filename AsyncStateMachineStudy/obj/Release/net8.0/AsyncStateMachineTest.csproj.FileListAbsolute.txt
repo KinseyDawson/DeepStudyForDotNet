@@ -1,0 +1,14 @@
+/Users/kinseydawson/Desktop/Test/AsyncStateMachine/AsyncStateMachineTest/bin/Release/net8.0/AsyncStateMachineTest
+/Users/kinseydawson/Desktop/Test/AsyncStateMachine/AsyncStateMachineTest/bin/Release/net8.0/AsyncStateMachineTest.deps.json
+/Users/kinseydawson/Desktop/Test/AsyncStateMachine/AsyncStateMachineTest/bin/Release/net8.0/AsyncStateMachineTest.runtimeconfig.json
+/Users/kinseydawson/Desktop/Test/AsyncStateMachine/AsyncStateMachineTest/bin/Release/net8.0/AsyncStateMachineTest.dll
+/Users/kinseydawson/Desktop/Test/AsyncStateMachine/AsyncStateMachineTest/bin/Release/net8.0/AsyncStateMachineTest.pdb
+/Users/kinseydawson/Desktop/Test/AsyncStateMachine/AsyncStateMachineTest/obj/Release/net8.0/AsyncStateMachineTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kinseydawson/Desktop/Test/AsyncStateMachine/AsyncStateMachineTest/obj/Release/net8.0/AsyncStateMachineTest.AssemblyInfoInputs.cache
+/Users/kinseydawson/Desktop/Test/AsyncStateMachine/AsyncStateMachineTest/obj/Release/net8.0/AsyncStateMachineTest.AssemblyInfo.cs
+/Users/kinseydawson/Desktop/Test/AsyncStateMachine/AsyncStateMachineTest/obj/Release/net8.0/AsyncStateMachineTest.csproj.CoreCompileInputs.cache
+/Users/kinseydawson/Desktop/Test/AsyncStateMachine/AsyncStateMachineTest/obj/Release/net8.0/AsyncStateMachineTest.dll
+/Users/kinseydawson/Desktop/Test/AsyncStateMachine/AsyncStateMachineTest/obj/Release/net8.0/refint/AsyncStateMachineTest.dll
+/Users/kinseydawson/Desktop/Test/AsyncStateMachine/AsyncStateMachineTest/obj/Release/net8.0/AsyncStateMachineTest.pdb
+/Users/kinseydawson/Desktop/Test/AsyncStateMachine/AsyncStateMachineTest/obj/Release/net8.0/AsyncStateMachineTest.genruntimeconfig.cache
+/Users/kinseydawson/Desktop/Test/AsyncStateMachine/AsyncStateMachineTest/obj/Release/net8.0/ref/AsyncStateMachineTest.dll
